@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/supervisor-worker-construction-site-768x768(1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
