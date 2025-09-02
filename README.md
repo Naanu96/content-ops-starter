@@ -1,6 +1,6 @@
 # Content Ops Starter
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
+![Violet-holdings](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
 Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
